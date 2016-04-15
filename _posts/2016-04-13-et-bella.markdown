@@ -5,7 +5,6 @@ date:   2016-04-13 18:42:41
 categories: jekyll update
 ---
 
-## E densis
 
 Lorem markdownum ignes illos tristia bibulaeque posse premit **patienda in**!
 [Fuisset cum](http://gifctrl.com/) declinat obside Priamidas stratis.
